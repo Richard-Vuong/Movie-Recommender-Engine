@@ -1,5 +1,5 @@
 # MovieRecommender
-This is a movie recommender engine I created for my capstone project, that utilises vectorization, and K-means clustering with the elbow and silhouette method to evaluate K.
+This is a movie recommender engine I created for my capstone project, that utilises text vectorization, and K-means clustering with the elbow and silhouette method to evaluate K.
 
 Premise of project:
 User inputs a movie
